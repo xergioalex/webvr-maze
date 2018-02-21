@@ -1,0 +1,20 @@
+{
+  "name": "xergioalex-aframe-gallery",
+  "description": "Gallery VR example",
+  "version": "0.5.0",
+  "license": "MIT",
+  "scripts": {
+    "serve": "serve"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-example",
+    "aframe-boilerplate",
+    "aframe-scene",
+    "webvr",
+    "vr"
+  ],
+  "devDependencies": {
+    "serve": "^6.4.11"
+  }
+}
