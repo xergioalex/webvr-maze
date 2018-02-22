@@ -1,4 +1,4 @@
-Basic WebVr Gallery using A-Frame
+Basic WebVr Maze Game using A-Frame
 ---
 
-Demo: https://xergioalex.github.io/webvr-gallery/
+Demo: https://xergioalex.github.io/webvr-maze/
