@@ -1,0 +1,7 @@
+.idea/
+*node_modules/
+*.sass-cache/
+*bower_components/
+*src/public
+*.map
+.DS_Store
